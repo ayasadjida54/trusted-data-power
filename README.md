@@ -155,16 +155,3 @@ Schema changes are tracked with Alembic. See
 [`backend/migrations/README.md`](backend/migrations/README.md) for how to
 apply and create migrations.
 
-## Project history
-
-This product was built in 8 phases plus a real data-cleaning addition,
-starting from a standalone data-quality MVP and growing into a full
-multi-tenant application. The complete architecture spec, phase-by-phase
-build log, and the reasoning behind every major scoping decision (what
-was built, what was deliberately deferred, and why) live in
-[`docs/trusted-data-power-spec.md`](docs/trusted-data-power-spec.md).
-
-## License
-
-Not yet decided — this repository does not currently carry an open-source
-license. All rights reserved unless/until one is added.
