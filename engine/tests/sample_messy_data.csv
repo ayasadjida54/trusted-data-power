@@ -1,0 +1,11 @@
+id,name,category,amount,signup_date,notes
+1,Alice,Retail,120.50,2023-01-05,Regular customer
+2,bob,retail,85.00,2023-01-06,
+3,Charlie ,Wholesale,999999,2023-01-07,possible data entry error
+4,Diana,Retail,60.25,2023-01-08,
+5,Eve,Retail,,2023-01-09,missing amount
+6,Frank,Wholesale,150.00,2023-01-10,
+7,Alice,Retail,120.50,2023-01-05,Regular customer
+8,Grace,retail ,75.30,2023-01-11,
+9,Heidi,Retail,90.10,2023-01-12,
+10,Ivan,Wholesale,-40.00,2023-01-13,negative amount check
